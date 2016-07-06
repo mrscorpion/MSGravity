@@ -9,7 +9,7 @@
 #import "YGGravityImageView.h"
 #import "YGGravity.h"
 
-#define SPEED 50
+#define SPEED 1 //50
 
 @implementation YGGravityImageView
 - (instancetype)initWithFrame:(CGRect)frame
