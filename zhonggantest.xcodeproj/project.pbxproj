@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0DD1C1B11D2D48DC006FA7E5 /* Slice.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD1C1B01D2D48DC006FA7E5 /* Slice.png */; };
 		529B622A1D1A3577008C40A6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 529B62291D1A3577008C40A6 /* main.m */; };
 		529B622D1D1A3577008C40A6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 529B622C1D1A3577008C40A6 /* AppDelegate.m */; };
 		529B62301D1A3577008C40A6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 529B622F1D1A3577008C40A6 /* ViewController.m */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0DD1C1B01D2D48DC006FA7E5 /* Slice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Slice.png; sourceTree = "<group>"; };
 		529B62251D1A3577008C40A6 /* zhonggantest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = zhonggantest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		529B62291D1A3577008C40A6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		529B622B1D1A3577008C40A6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				529B622C1D1A3577008C40A6 /* AppDelegate.m */,
 				529B622E1D1A3577008C40A6 /* ViewController.h */,
 				529B622F1D1A3577008C40A6 /* ViewController.m */,
+				0DD1C1B01D2D48DC006FA7E5 /* Slice.png */,
 				529B62341D1A3577008C40A6 /* Assets.xcassets */,
 				529B62361D1A3577008C40A6 /* LaunchScreen.storyboard */,
 				529B62391D1A3577008C40A6 /* Info.plist */,
@@ -159,6 +162,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DD1C1B11D2D48DC006FA7E5 /* Slice.png in Resources */,
 				F97E9AB21D1BB3F700E6F6A7 /* login_bg6@2x.png in Resources */,
 				529B62381D1A3577008C40A6 /* LaunchScreen.storyboard in Resources */,
 				529B62351D1A3577008C40A6 /* Assets.xcassets in Resources */,

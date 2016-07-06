@@ -20,7 +20,7 @@
     [super viewDidLoad];
    
     YGGravityImageView *imageView = [[YGGravityImageView alloc]initWithFrame:CGRectMake(0, 0, [UIScreen mainScreen].bounds.size.width, [UIScreen mainScreen].bounds.size.height)];
-    imageView.image = [UIImage imageNamed:@"login_bg6.png"];
+    imageView.image = [UIImage imageNamed:@"Slice.png"]; // @"login_bg6.png"
     [self.view addSubview:imageView];
     
     [imageView startAnimate];
